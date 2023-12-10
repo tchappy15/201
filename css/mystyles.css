@@ -1,6 +1,31 @@
-h2{
-    font-family: 'Courier New', Courier, monospace;
+.bold {
+    font-weight: bold;
 }
-.darkcolor{
-    background-color: navy !important;
+.italics{
+    font-style: italic;
 }
+.center-text{
+    text-align: center;
+}
+/* .right-text{
+    display: inline; 
+    text-align: right;  
+} */
+.resume-container {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 30px;
+  }
+  .black{
+    color: black;
+  }
+  .white{
+    color: white !important;
+  }
+  .larger-font-size{
+    font-size: 1.3rem !important;
+  }
+  .black-border{
+    border: solid black 4px;
+  }
+

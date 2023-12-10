@@ -1,0 +1,50 @@
+body{
+    background-color: rgba(18, 96, 214, 0.39);
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+/* .bckimg{
+    background-color: rgba(240, 248, 255, 0.397);
+} */
+/* .tableaustyle{
+    
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center;
+    height: 100vh; 
+    display: grid;
+    place-items: center;
+    height: 100vh;
+} */
+img{
+    display: block;
+    width: 40% ;
+    margin: auto;
+    border: solid white 4px;
+}
+.list{
+    font-size: large;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+a{
+    color:navy;
+}
+.centerlink{
+    text-align: center;
+    font-size: x-large;
+}
+a:hover{
+    color: rgb(207, 226, 212);
+}
+.video-container {
+    display: flex;
+    justify-content: center;
+    /* align-items: center;
+    height: 100vh; */
+  }
